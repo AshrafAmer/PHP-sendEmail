@@ -1,4 +1,4 @@
-# PHP <Send Email Message> Form
+# PHP [ Send Email Message ] Form
 
 Build a simple form.
 People can be able to send messages to my mail using this form.
